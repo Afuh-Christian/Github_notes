@@ -1,0 +1,32 @@
+1 
+git init 
+echo > f1.txt
+echo > f2.txt 
+
+2 
+git status -s 
+
+3 
+git add *.txt 
+
+4 
+git diff --staged 
+
+5 
+git commit -m "first commit" 
+
+6 
+git log --oneline --graph 
+
+7 
+git show HEAD  
+
+8  
+echo hello > f1.txt 
+git diff
+
+9
+ git add f1.txt 
+
+10 
+git restore --staged f1.txt

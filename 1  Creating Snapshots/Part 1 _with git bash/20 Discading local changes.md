@@ -1,0 +1,9 @@
+# They are time we have some come in working directory , we wish to remove ...
+
+# Discard the Local changes .. 
+
+
+# files waiting to be  added to staging area  ... restoring the old version of the files in the working directory ...
+> git restore file1.txt  
+
+- will restore a the file1 in the working directory .... by taking it's copy in the staging area and placing in the working directory .... 
