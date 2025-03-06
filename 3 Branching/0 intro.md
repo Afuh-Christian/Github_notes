@@ -3,10 +3,10 @@
 - Use branches - to diverse from the main line of development and work on something else in isolation
 - Compare branches
 - Merge branches 
-    - free way merging 
+    - 3 way merging 
     - fast forwarding
     - squash merging 
-    - free basing
+    - Re-basing
 - Resolving merge conflicts
 - Undo a faulty merge 
 - Essential tools (stashing , cherry picking)
